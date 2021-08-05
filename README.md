@@ -1,4 +1,4 @@
-# WD
+# A new index reveals declining welfare diversity in China
 *Xi Ji, Xianling Long, Guowei Wu, Pinyi Su, Xuanyuan Luo, and Robert Costanza*
 
 This repository contains data and code that can be used to reproduce the results found in the manuscript "A new index reveals declining welfare diversity in China".
