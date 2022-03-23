@@ -9,7 +9,7 @@ Data lists:
 
 (2) data_province.dta : data used for the regression models (province level);
 
-(3) 2022.3.2_prefecturalGPI_component_and_measurement.xlsx : raw data for the measurement of prefectural GPI compenents[^2];
+(3) 2022.3.23_prefecturalGPI_component_and_measurement.xlsx : raw data for the measurement of prefectural GPI compenents[^2];
 
 (4) data_prefecture.dta : data used for the regression models (prefecture level);
 
