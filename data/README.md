@@ -5,7 +5,7 @@ Data for the manuscript "A new index reveals declining welfare diversity in Chin
 
 Data lists: 
 
-(1) 2021.8.6_provincialGPI_compenent_and_measurement.xlsx : raw data for the measurement of provincial GPI compenents (the calculating results of GPI, WD and SGPI are already presented in our paper[^1]);
+(1) 2022.7.8_provincialGPI_compenent_and_measurement.xlsx : raw data for the measurement of provincial GPI compenents (the calculating results of GPI, WD and SGPI are already presented in our paper[^1]);
 
 (2) data_province.dta : data used for the regression models (province level);
 
