@@ -1,7 +1,7 @@
-# A new index reveals declining welfare diversity in China
+# A new index reveals worsening welfare structure in China
 *Xi Ji, Xianling Long, Guowei Wu, Pinyi Su, Xuanyuan Luo, and Robert Costanza*
 
-Data for the manuscript "A new index reveals declining welfare diversity in China".
+Data for the manuscript "A new index reveals worsening welfare structure in China".
 
 Data lists: 
 
@@ -12,6 +12,8 @@ Data lists:
 (3) 2022.7.8_prefecturalGPI_component_and_measurement.xlsx : raw data for the measurement of prefectural GPI compenents[^2];
 
 (4) data_prefecture.dta : data used for the regression models (prefecture level);
+
+(5) data_sensitivity : data used for the sensitive analyses.
 
 For replication issues, please feel free to contact us at jixi@pku.edu.cn (Xi Ji).
 
