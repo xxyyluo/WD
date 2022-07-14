@@ -7,9 +7,9 @@ Data lists:
 
 (1) 2021.8.6_provincialGPI_compenent_and_measurement.xlsx : raw data for the measurement of provincial GPI compenents (the calculating results of GPI, WD and SGPI are already presented in our paper[^1]);
 
-(2) data_province.dta : data used for the regression models (province level);
+(2) 2022.7.8_prefecturalGPI_component_and_measurement.xlsx : raw data for the measurement of prefectural GPI compenents[^2];
 
-(3) 2022.7.8_prefecturalGPI_component_and_measurement.xlsx : raw data for the measurement of prefectural GPI compenents[^2];
+(3) data_province.dta : data used for the regression models (province level);
 
 (4) data_prefecture.dta : data used for the regression models (prefecture level);
 
