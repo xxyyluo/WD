@@ -1,5 +1,5 @@
 # A new index integrating welfare diversity reveals unbalanced structure of welfare in China
-Xi Ji*, Xianling Long*, Guowei Wu, Pinyi Su, Xuanyuan Luo, and Robert Costanza*
+*Xi Ji, Xianling Long, Guowei Wu, Pinyi Su, Xuanyuan Luo, and Robert Costanza*
 
 Data for the manuscript "A new index integrating welfare diversity reveals unbalanced structure of welfare in China".
 
