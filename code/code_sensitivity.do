@@ -21,8 +21,8 @@ gen sertab=group(2)
 
 
 *------------------- sensitivity analyses ----------------------*
-// table s5 - s10
-global sens "n_capital n_nature inequality depletion commuting water"
+// table s5 - s11
+global sens "n_capital n_nature inequality depletion commuting water parameter"
 local append replace
 foreach v of varlist $sens{
 	eststo clear
