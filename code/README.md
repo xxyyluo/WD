@@ -1,7 +1,7 @@
-# A new index reveals worsening welfare structure in China
+# A new index integrating welfare diversity reveals unbalanced structure of welfare in China
 *Xi Ji, Xianling Long, Guowei Wu, Pinyi Su, Xuanyuan Luo, and Robert Costanza*
 
-Code for the manuscript "A new index reveals worsening welfare structure in China".
+Code for the manuscript "A new index integrating welfare diversity reveals unbalanced structure of welfare in China".
 
 Code list: 
 
