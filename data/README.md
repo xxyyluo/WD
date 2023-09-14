@@ -1,7 +1,7 @@
-# A new index integrating welfare diversity reveals unbalanced structure of welfare in China
-*Xi Ji, Xianling Long, Guowei Wu, Pinyi Su, Xuanyuan Luo, and Robert Costanza*
+# A new index reveals a widening decoupling between growth and development in China
+*Xi Ji, Xianling Long, Xuanyuan Luo, Guowei Wu, Pinyi Su, and Robert Costanza*
 
-Data for the manuscript "A new index integrating welfare diversity reveals unbalanced structure of welfare in China".
+Data for the manuscript "A new index reveals a widening decoupling between growth and development in China".
 
 Data lists: 
 
